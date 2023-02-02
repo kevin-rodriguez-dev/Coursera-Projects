@@ -5,7 +5,7 @@ let productos = [
     id: 1,
     nombre: "Tomate",
     precio: 100,
-    img: "/App_web/img/Tomato-Vegetable-PNG.png",
+    img: "/img/Tomato-Vegetable-PNG.png",
     descripcion:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum deserunt.",
   },
@@ -13,7 +13,7 @@ let productos = [
     id: 2,
     nombre: "Lechuga",
     precio: 50,
-    img: "/App_web/img/Green-Lettuce-PNG-Transparent-Image.png",
+    img: "/img/Green-Lettuce-PNG-Transparent-Image.png",
     descripcion:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum deserunt.",
   },
@@ -21,7 +21,7 @@ let productos = [
     id: 3,
     nombre: "Zanahoria",
     precio: 150,
-    img: "/App_web/img/Carrot-Cutting-Pieces-PNG.png",
+    img: "/img/Carrot-Cutting-Pieces-PNG.png",
     descripcion:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum deserunt.",
   },
@@ -29,7 +29,7 @@ let productos = [
     id: 4,
     nombre: "Uvas",
     precio: 200,
-    img: "/App_web/img/Transparent-Grapes-PNG.png",
+    img: "/img/Transparent-Grapes-PNG.png",
     descripcion:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum deserunt.",
   },
@@ -37,7 +37,7 @@ let productos = [
     id: 5,
     nombre: "Kiwi",
     precio: 250,
-    img: "/App_web/img/Kiwi-Fruit-PNG.png",
+    img: "/img/Kiwi-Fruit-PNG.png",
     descripcion:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum deserunt.",
   },
@@ -45,7 +45,7 @@ let productos = [
     id: 6,
     nombre: "Espinaca",
     precio: 70,
-    img: "/App_web/img/Green-Spinach-PNG-Transparent-Image.png",
+    img: "/img/Green-Spinach-PNG-Transparent-Image.png",
     descripcion:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum deserunt.",
   },
@@ -53,7 +53,7 @@ let productos = [
     id: 7,
     nombre: "Queso",
     precio: 300,
-    img: "/App_web/img/Cheese-PNG-Image.png",
+    img: "/img/Cheese-PNG-Image.png",
     descripcion:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum deserunt.",
   },
