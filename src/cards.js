@@ -81,5 +81,10 @@ productos.forEach((x) => {
 
 function agregarProducto(id) {
   const result = productos.find((x) => x.id == id);
-  alert("Producto " + `${result.nombre}` + " agregado a la cesta");
+  Swal.fire({
+    icon: "success",
+    title: `${result.nombre}` + " agregado al carrito",
+    showConfirmButton: false,
+    timer: 1500,
+  });
 }
